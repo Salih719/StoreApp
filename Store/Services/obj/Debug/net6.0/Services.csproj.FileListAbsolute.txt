@@ -1,0 +1,17 @@
+D:\Projeler\MVC\Store\Services\bin\Debug\net6.0\Services.deps.json
+D:\Projeler\MVC\Store\Services\bin\Debug\net6.0\Services.dll
+D:\Projeler\MVC\Store\Services\bin\Debug\net6.0\Services.pdb
+D:\Projeler\MVC\Store\Services\bin\Debug\net6.0\Entitites.dll
+D:\Projeler\MVC\Store\Services\bin\Debug\net6.0\Repositories.dll
+D:\Projeler\MVC\Store\Services\bin\Debug\net6.0\Entitites.pdb
+D:\Projeler\MVC\Store\Services\bin\Debug\net6.0\Repositories.pdb
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\Services.dll
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\Services.pdb
+D:\Projeler\MVC\Store\Services\obj\Debug\net6.0\ref\Services.dll

@@ -1,0 +1,12 @@
+D:\Projeler\MVC\Store\Entitites\bin\Debug\net6.0\Entitites.deps.json
+D:\Projeler\MVC\Store\Entitites\bin\Debug\net6.0\Entitites.dll
+D:\Projeler\MVC\Store\Entitites\bin\Debug\net6.0\Entitites.pdb
+D:\Projeler\MVC\Store\Entitites\obj\Debug\net6.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\MVC\Store\Entitites\obj\Debug\net6.0\Entitites.AssemblyInfoInputs.cache
+D:\Projeler\MVC\Store\Entitites\obj\Debug\net6.0\Entitites.AssemblyInfo.cs
+D:\Projeler\MVC\Store\Entitites\obj\Debug\net6.0\Entitites.csproj.CoreCompileInputs.cache
+D:\Projeler\MVC\Store\Entitites\obj\Debug\net6.0\Entitites.dll
+D:\Projeler\MVC\Store\Entitites\obj\Debug\net6.0\refint\Entitites.dll
+D:\Projeler\MVC\Store\Entitites\obj\Debug\net6.0\Entitites.pdb
+D:\Projeler\MVC\Store\Entitites\obj\Debug\net6.0\ref\Entitites.dll
+D:\Projeler\MVC\Store\Entitites\obj\Debug\net6.0\Entitites.csproj.AssemblyReference.cache
